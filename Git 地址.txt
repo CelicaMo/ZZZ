@@ -1,0 +1,7 @@
+HIS£º  http://git.ds.com/dsgitserver/HIS.git
+
+
+libgit2sharp£ºhttps://github.com/libgit2/libgit2sharp.git
+
+
+gitsource£ºgit://git.kernel.org/pub/scm/git/git.git
